@@ -15,7 +15,6 @@ Welcome to my GitHub profile! I'm a developer with expertise in full-stack web d
 ### Web Development
 - [**Pokoje Gościnne Justyna**](https://github.com/Kubabob/pokoje-goscinne-justyna) - A modern hotel website built with Next.js 13 and Payload CMS as a headless content management system
 - [**Next.js Dashboard**](https://github.com/Kubabob/nextJsDashboard) - A responsive dashboard application with data visualization, authentication, and real-time updates
-- [**Hotel Website**](https://github.com/Kubabob/hotel-website) - Another hotel website project showcasing my web development skills
 
 ### Scientific Computing & Data Science
 - [**Food Recognition System**](https://github.com/Kubabob/fridge_project) - Computer vision system using YOLO segmentation models for real-time food detection and identification
