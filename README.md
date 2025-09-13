@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a developer with expertise in full-stack web d
 ## 😺 Meet My Coding Assistants
 
 <div align="center">
-  <img src="cat1.jpg" width="300" height="300" style="object-fit: cover" alt="My cat assistant #1" />
-  <img src="cat2.jpg" width="300" height="300" style="object-fit: cover" alt="My cat assistant #2" />
+  <img src="cat1.jpg" width="300" height="300" alt="My cat assistant #1" />
+  <img src="cat2.jpg" width="300" height="300" alt="My cat assistant #2" />
   <p><i>My feline coding partners who ensure I never miss a bug (or a nap)</i></p>
 </div>
 
